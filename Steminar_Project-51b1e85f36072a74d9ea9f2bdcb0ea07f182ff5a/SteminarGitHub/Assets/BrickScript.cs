@@ -10,6 +10,6 @@ public class BrickScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        brickAmountText.text = "Oil: " + brickAmount;
+        brickAmountText.text = "Brick: " + brickAmount;
     }
 }
