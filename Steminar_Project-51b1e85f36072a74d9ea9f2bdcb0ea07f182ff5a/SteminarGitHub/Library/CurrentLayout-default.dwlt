@@ -71,7 +71,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 78
+  controlID: 69
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 79
+  controlID: 70
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -268,7 +268,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 58
+  controlID: 71
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -465,7 +465,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000be3c0000683c0000e4400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -561,9 +561,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: eef8ffff56fbffff92330000c4330000
+      m_SelectedIDs: 24faffff
+      m_LastClickedID: -1500
+      m_ExpandedIDs: 6afbffff88330000bc330000de330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -623,9 +623,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.8599014, y: 0.62402344, z: -14.581055}
+    m_Target: {x: 5.6953125, y: 3.7324219, z: -8.015625}
     speed: 2
-    m_Value: {x: -2.8599014, y: 0.62402344, z: -14.581055}
+    m_Value: {x: 5.6953125, y: 3.7324219, z: -8.015625}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -671,13 +671,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.16453567, y: 0.01626946, z: -0.0027141075, w: 0.98623365}
+    m_Target: {x: 0.26332307, y: 0.37229165, z: -0.111019425, w: 0.88302517}
     speed: 2
-    m_Value: {x: 0.16453561, y: 0.016269455, z: -0.0027141066, w: 0.9862333}
+    m_Value: {x: 0.26332322, y: 0.37229186, z: -0.111019485, w: 0.88302565}
   m_Size:
-    m_Target: 0.8576865
+    m_Target: 24.451141
     speed: 2
-    m_Value: 0.8475165
+    m_Value: 24.823494
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -763,7 +763,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
