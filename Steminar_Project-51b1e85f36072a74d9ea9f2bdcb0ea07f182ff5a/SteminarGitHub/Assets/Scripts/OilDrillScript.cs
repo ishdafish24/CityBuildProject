@@ -8,6 +8,7 @@ public class OilDrillScript : MonoBehaviour
     public int waitTime = 50;
     public int oilToAdd = 1;
     public GameObject OilText;
+    public GameObject Canvas;
 
     // Start is called before the first frame update
     void Start()
@@ -18,6 +19,7 @@ public class OilDrillScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Canvas.gameObject.SetActive(false);
         if (timer < waitTime)
         {
             timer++;
@@ -27,5 +29,15 @@ public class OilDrillScript : MonoBehaviour
             OilText.GetComponent<OilScript>().oilAmount += oilToAdd;
             timer = 0;
         }
+    }
+
+    void OnMouseDown()
+    {
+        Canvas.gameObject.SetActive(true); 
+    }
+
+    void OnMouseUp()
+    {
+        Canvas.gameObject.SetActive(false);
     }
 }

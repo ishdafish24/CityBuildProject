@@ -63,11 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Billboard.cs" />
-    <Compile Include="Assets\BrickScript.cs" />
-    <Compile Include="Assets\OilCollectedScript.cs" />
+    <Compile Include="Assets\Scripts\Billboard.cs" />
+    <Compile Include="Assets\Scripts\BrickScript.cs" />
     <Compile Include="Assets\Scripts\BrickSiteScript.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\OilCollectedScript.cs" />
     <Compile Include="Assets\Scripts\OilDrillScript.cs" />
     <Compile Include="Assets\Scripts\OilScript.cs" />
     <Compile Include="Assets\Scripts\PlayerLook.cs" />
