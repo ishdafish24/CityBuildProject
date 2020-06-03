@@ -1,13 +1,17 @@
 ﻿<Properties StartupConfiguration="{83F825DE-45AD-86E1-486A-83C6F23F2FD2}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/OilDrillScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DesertHouseScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/OilDrillScript.cs" Line="17" Column="6" />
-      <File FileName="Assets/Scripts/OilScript.cs" />
+      <File FileName="Assets/Scripts/OilDrillScript.cs" Line="12" Column="5" />
+      <File FileName="Assets/Scripts/OilScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OilCollectedScript.cs" Line="22" Column="6" />
+      <File FileName="Assets/BrickCollectedScript.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/BrickSiteScript.cs" Line="35" Column="5" />
+      <File FileName="Assets/DesertHouseScript.cs" Line="27" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8fed2c6e-eb83-46a7-aec2-e85986ab748e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1911037d-8d82-4e1d-a50b-4c406e793f5c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
