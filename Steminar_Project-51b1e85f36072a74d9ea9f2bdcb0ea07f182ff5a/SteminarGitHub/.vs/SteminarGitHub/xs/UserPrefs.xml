@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{83F825DE-45AD-86E1-486A-83C6F23F2FD2}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DesertHouseScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DesertHouseScript.cs">
     <Files>
       <File FileName="Assets/Scripts/OilDrillScript.cs" Line="12" Column="5" />
       <File FileName="Assets/Scripts/OilScript.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/OilCollectedScript.cs" Line="22" Column="6" />
       <File FileName="Assets/BrickCollectedScript.cs" Line="16" Column="6" />
       <File FileName="Assets/Scripts/BrickSiteScript.cs" Line="35" Column="5" />
-      <File FileName="Assets/DesertHouseScript.cs" Line="27" Column="6" />
+      <File FileName="Assets/DesertHouseScript.cs" Line="7" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
