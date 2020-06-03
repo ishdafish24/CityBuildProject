@@ -791,7 +791,7 @@ GameObject:
   - component: {fileID: 239455055}
   - component: {fileID: 239455054}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Ocean
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -806,7 +806,7 @@ Transform:
   m_GameObject: {fileID: 239455052}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -0.1, z: 0}
-  m_LocalScale: {x: 48, y: 0.1, z: 48}
+  m_LocalScale: {x: 200, y: 0.1, z: 200}
   m_Children: []
   m_Father: {fileID: 680320352}
   m_RootOrder: 2
@@ -1704,6 +1704,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panSpeed: 10
+  maxDistFromCenter: 40
 --- !u!81 &808866402
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1763,7 +1764,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 808866400}
   m_LocalRotation: {x: 0.42261827, y: 0, z: 0, w: 0.9063079}
-  m_LocalPosition: {x: 0, y: 0, z: -8.015625}
+  m_LocalPosition: {x: 0, y: 7.93, z: -14.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
