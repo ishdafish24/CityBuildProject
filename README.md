@@ -1,3 +1,3 @@
 # CityBuildProject
-![](SteminarGitHub/Assets/CityBuilderCoLogo.png)
+![](CityBuilderCoLogo.png)
 © CITYBUILDER CO
