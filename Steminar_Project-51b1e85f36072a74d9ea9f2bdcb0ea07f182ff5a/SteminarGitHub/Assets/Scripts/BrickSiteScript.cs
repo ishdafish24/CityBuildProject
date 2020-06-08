@@ -20,7 +20,7 @@ public class BrickSiteScript : MonoBehaviour
     void Update()
     {
         if (timer < waitTime)
-        {s
+        {
             timer++;
         }
         else

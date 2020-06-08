@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{83F825DE-45AD-86E1-486A-83C6F23F2FD2}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BrickSiteScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Billboard.cs">
     <Files>
       <File FileName="Assets/Scripts/OilDrillScript.cs" Line="8" Column="29" />
-      <File FileName="Assets/Scripts/OilScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OilScript.cs" />
       <File FileName="Assets/Scripts/OilCollectedScript.cs" />
-      <File FileName="Assets/Scripts/BrickSiteScript.cs" Line="9" Column="18" />
-      <File FileName="Assets/Scripts/CameraController.cs" Line="21" Column="18" />
-      <File FileName="Assets/Scripts/CheckMouseOver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BrickSiteScript.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/CheckMouseOver.cs" />
+      <File FileName="Assets/Scripts/Billboard.cs" Line="15" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="37ff34d0-1bce-42d9-a688-fa49b7239abd" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aaf22fb2-576d-4c9b-b767-a8b261e72816" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
