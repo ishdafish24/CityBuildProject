@@ -5,7 +5,7 @@ using UnityEngine;
 public class OilDrillScript : MonoBehaviour
 {
     int timer = 0;
-    public int waitTime = 50;
+    public int waitTime = 100;
     public int oilToAdd = 1;
     public int oilCollected = 0;
     public GameObject OilText;

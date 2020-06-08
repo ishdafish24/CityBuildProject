@@ -5,7 +5,7 @@ using UnityEngine;
 public class BrickSiteScript : MonoBehaviour
 {
     int timer = 0;
-    public int waitTime = 50;
+    public int waitTime = 100;
     public int bricksToAdd = 1;
     public int brickCollected = 0;
     public GameObject BrickText;
@@ -20,7 +20,7 @@ public class BrickSiteScript : MonoBehaviour
     void Update()
     {
         if (timer < waitTime)
-        {
+        {s
             timer++;
         }
         else
