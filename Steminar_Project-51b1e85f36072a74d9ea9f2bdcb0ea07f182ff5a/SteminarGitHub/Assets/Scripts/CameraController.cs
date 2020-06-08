@@ -5,7 +5,8 @@ public class CameraController : MonoBehaviour
 {
     public float panSpeed = 20.0f;
     public float maxDistFromCenter = 40;
-    
+    public float minHeight = 2;
+
 
     // Update is called once per frame
     void Update()
@@ -35,7 +36,7 @@ public class CameraController : MonoBehaviour
 
 
 
-        if (Input.GetKey("z"))
+        if (Input.GetKey("z") && currenPos.y > minHeight)
         {
             currenPos.y -= panSpeed * Time.deltaTime;
         }
