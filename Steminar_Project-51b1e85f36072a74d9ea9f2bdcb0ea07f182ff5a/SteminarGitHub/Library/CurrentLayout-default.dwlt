@@ -138,7 +138,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 3112
+  controlID: 35
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,7 +163,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 3113
+  controlID: 36
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -188,7 +188,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 3114
+  controlID: 37
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -419,9 +419,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 248effff
-      m_LastClickedID: -29148
-      m_ExpandedIDs: 248effffdcfaffffeefaffff66fbffff8a330000e2330000063400006034000080340000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 9ce2ffffd6fafffff43300005434000074340000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.7612305, y: -0.14422607, z: -13.284729}
+    m_Target: {x: -2.58, y: 0.45948207, z: -13.379999}
     speed: 2
-    m_Value: {x: -1.7612305, y: -0.14422607, z: -13.284729}
+    m_Value: {x: -2.58, y: 0.45948207, z: -13.379999}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -555,13 +555,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.30851614, y: 0.2635318, z: -0.089383356, w: 0.9096058}
+    m_Target: {x: 0.2768211, y: 0.01008938, z: -0.0029065819, w: 0.9608652}
     speed: 2
-    m_Value: {x: 0.30851564, y: 0.26353136, z: -0.08938321, w: 0.9096043}
+    m_Value: {x: 0.2768208, y: 0.010089369, z: -0.0029065788, w: 0.9608642}
   m_Size:
-    m_Target: 0.8866074
+    m_Target: 0.9317272
     speed: 2
-    m_Value: 0.8866074
+    m_Value: 0.9317272
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -689,20 +689,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Building Assets
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Building Assets
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/adadiazahmed/Documents/GitHub/CityBuildProject/Steminar_Project-51b1e85f36072a74d9ea9f2bdcb0ea07f182ff5a/SteminarGitHub
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 54360000
-    m_LastClickedID: 13908
-    m_ExpandedIDs: 000000004c36000000ca9a3b
+    m_SelectedIDs: 10360000
+    m_LastClickedID: 13840
+    m_ExpandedIDs: 000000001036000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -730,7 +730,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c36000000ca9a3b
+    m_ExpandedIDs: 0000000010360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -849,7 +849,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 90
+  m_LastVerticalScrollValue: 0
 --- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52

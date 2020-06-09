@@ -4,7 +4,7 @@
       <File FileName="Assets/Scripts/OilDrillScript.cs" Line="8" Column="29" />
       <File FileName="Assets/Scripts/OilScript.cs" />
       <File FileName="Assets/Scripts/OilCollectedScript.cs" />
-      <File FileName="Assets/Scripts/BrickSiteScript.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/BrickSiteScript.cs" />
       <File FileName="Assets/Scripts/CameraController.cs" />
       <File FileName="Assets/Scripts/CheckMouseOver.cs" />
       <File FileName="Assets/Scripts/Billboard.cs" Line="15" Column="1" />
@@ -12,7 +12,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aaf22fb2-576d-4c9b-b767-a8b261e72816" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ea01cd36-7cb1-4caf-86fe-96d08cf308dd" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
