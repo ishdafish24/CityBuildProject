@@ -68,7 +68,7 @@
     <Compile Include="Assets\Scripts\BrickScript.cs" />
     <Compile Include="Assets\Scripts\BrickSiteScript.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
-    <Compile Include="Assets\Scripts\DesertHouseScript.cs" />
+    <Compile Include="Assets\Scripts\CheckMouseOver.cs" />
     <Compile Include="Assets\Scripts\OilCollectedScript.cs" />
     <Compile Include="Assets\Scripts\OilDrillScript.cs" />
     <Compile Include="Assets\Scripts\OilScript.cs" />
