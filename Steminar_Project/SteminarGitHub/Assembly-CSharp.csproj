@@ -69,9 +69,11 @@
     <Compile Include="Assets\Scripts\BrickSiteScript.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\CheckMouseOver.cs" />
+    <Compile Include="Assets\Scripts\LockYPos.cs" />
     <Compile Include="Assets\Scripts\OilCollectedScript.cs" />
     <Compile Include="Assets\Scripts\OilDrillScript.cs" />
     <Compile Include="Assets\Scripts\OilScript.cs" />
+    <Compile Include="Assets\Scripts\PickUp.cs" />
     <Compile Include="Assets\Scripts\PlayerLook.cs" />
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Tom's Terrain Tools\2DTools\Scripts\Camera2DFollow.cs" />

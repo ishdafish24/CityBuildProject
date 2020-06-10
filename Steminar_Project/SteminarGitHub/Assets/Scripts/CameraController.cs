@@ -5,45 +5,45 @@ public class CameraController : MonoBehaviour
 {
     public float panSpeed = 20.0f;
     public float maxDistFromCenter = 40;
-    public float minHeight = 2;
+    public double minHeight = -10;
 
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 currenPos = transform.position;
+        Vector3 currentPos = transform.position;
 
-        if (Input.GetKey("w") && currenPos.z < maxDistFromCenter)
+        if (Input.GetKey("w") && currentPos.z < maxDistFromCenter)
         {
-            currenPos.z += panSpeed * Time.deltaTime;
+            currentPos.z += panSpeed * Time.deltaTime;
         }
 
-        else if (Input.GetKey("a") && currenPos.x > maxDistFromCenter * -1)
+        else if (Input.GetKey("a") && currentPos.x > maxDistFromCenter * -1)
         {
-            currenPos.x -= panSpeed * Time.deltaTime;
+            currentPos.x -= panSpeed * Time.deltaTime;
         }
-        else if (Input.GetKey("d") && currenPos.x < maxDistFromCenter)
+        else if (Input.GetKey("d") && currentPos.x < maxDistFromCenter)
         {
-            currenPos.x += panSpeed * Time.deltaTime;
+            currentPos.x += panSpeed * Time.deltaTime;
         }
-        else if (Input.GetKey("s") && currenPos.z > maxDistFromCenter *-1)
+        else if (Input.GetKey("s") && currentPos.z > maxDistFromCenter *-1)
         {
-            currenPos.z -= panSpeed * Time.deltaTime;
+            currentPos.z -= panSpeed * Time.deltaTime;
         }
 
-        transform.position = currenPos;
+        transform.position = currentPos;
 
 
 
 
-        if (Input.GetKey("c") && currenPos.y > minHeight)
+        if (Input.GetKey("c") && currentPos.y > minHeight)
         {
-            currenPos.y -= panSpeed * Time.deltaTime;
+            currentPos.y -= panSpeed * Time.deltaTime;
         }
         else if (Input.GetKey("v"))
         {
-            currenPos.y += panSpeed * Time.deltaTime;
+            currentPos.y += panSpeed * Time.deltaTime;
         }
-        transform.position = currenPos;
+        transform.position = currentPos;
     }
 }
