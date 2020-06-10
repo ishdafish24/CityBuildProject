@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{83F825DE-45AD-86E1-486A-83C6F23F2FD2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OilDrillScript.cs" Line="8" Column="29" />
+      <File FileName="Assets/Scripts/OilScript.cs" />
+      <File FileName="Assets/Scripts/OilCollectedScript.cs" />
+      <File FileName="Assets/Scripts/BrickSiteScript.cs" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="19" Column="10" />
+      <File FileName="Assets/Scripts/CheckMouseOver.cs" />
+      <File FileName="Assets/Scripts/Billboard.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SteminarGitHub" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4065ceeb-29dc-4700-ba59-9a49cb4bab08" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
