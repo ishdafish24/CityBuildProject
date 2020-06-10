@@ -36,11 +36,11 @@ public class CameraController : MonoBehaviour
 
 
 
-        if (Input.GetKey("z") && currenPos.y > minHeight)
+        if (Input.GetKey("c") && currenPos.y > minHeight)
         {
             currenPos.y -= panSpeed * Time.deltaTime;
         }
-        else if (Input.GetKey("x"))
+        else if (Input.GetKey("v"))
         {
             currenPos.y += panSpeed * Time.deltaTime;
         }
